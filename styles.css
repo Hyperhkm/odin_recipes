@@ -1,0 +1,17 @@
+body{
+    font-family: Verdana, sans-serif;
+}
+img#dog{
+    height: 600px;
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+ul{
+    display: table;
+    margin: 0 auto;
+}
+h1{
+    text-align: center;
+}
